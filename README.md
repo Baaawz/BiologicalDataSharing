@@ -14,3 +14,6 @@ For the files we separated the 2 folders based on the phylogeny method.
 ## structure_files
 - This directory holds all .cif files which were used in the Foldmason MSA structure-based phylogeny.
 
+## NJ-bootstrapping-phylotree
+This file is the sequence-based phylogenetic tree imported from MEGA12
+
